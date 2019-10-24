@@ -1,0 +1,24 @@
+real    668m29,907s
+user    1421m30,147s
+sys     387m42,706s
+
+time python3 SNR_data.py --mass_min_1=15 --mass_max_1=60  --mass_min_2=15 --mass_max_2=60 --jump_mass=1 --ratio_min=3 --ratio_max=16 --ratio_jump=0.5
+
+
+
+
+
+
+
+
+
+
+
+real    647m55,631s
+user    1319m13,403s
+sys     373m46,133s
+
+time python3 SNR_data.py --mass_min_1=15 --mass_max_1=60  --mass_min_2=15 --mass_max_2=60 --jump_mass=1 --ratio_min=3.0 --ratio_max=16.0 --ratio_jump=0.5
+
+
+Le dernier run lancer est un run pour généré du bruit sans GW, donc tout les data_ratio sont du pur bruit
