@@ -1,0 +1,20 @@
+waveform 1305
+
+angle theta =  1.26
+angle phi =  1.26
+masse 1 =  32.0 M_solaire
+masse 2 =  43.0 M_solaire
+spin 1 composante x =  0
+spin 1 composante y =  0
+spin 1 composante z =  0
+spin 2 composante x =  0
+spin 2 composante y =  0
+spin 2 composante z =  0
+distance de la source =  627
+inclinaison du plan de la source =  0
+phi de reference =  0
+frequence (nbr de point par seconde) =  4096
+frequence minimum =  25
+chirp_mass =  32.22246848937209
+the SNR is = 0
+There is no GW, only Gaussian noise
